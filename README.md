@@ -13,7 +13,7 @@ If you are short on time, be sure to make it through these items:
 - Accessing Data within Pandas - Lab
 - Importing Data Using Pandas - Lab
 - Understanding Pandas Series and DataFrames
-> The item above introduces the `map` function, as well as `rename` to change column names.  They also use the `drop` method, which will be covered in Topic 5.
+> The item above introduces the `map` function, as well as `rename` to change column names.  It also uses the `drop` method, which will be covered in Topic 5.
 - Understanding Pandas Series and DataFrames - Lab
 - Statistical Methods in Pandas - Lab
 
