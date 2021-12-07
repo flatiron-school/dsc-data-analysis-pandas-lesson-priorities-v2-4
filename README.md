@@ -19,7 +19,7 @@ If you are short on time, be sure to make it through these items:
 
 # Appendix
 
-There are quite a few lessons in the Appendix to which will help develop your Pandas skills.  There is also a lesson which leads you through Kaggle registration. Take a moment to sign up for Kaggle to have access to a platform which hosts public datasets, competitions, and learning tools.
+There are quite a few lessons in the Appendix will help develop your Pandas skills.  There is also a lesson which leads you through Kaggle registration. Take a moment to sign up for Kaggle to have access to a platform which hosts public datasets, competitions, and learning tools.
 
 While matplotlib will be the primary tool for plotting, Pandas objects also have plotting capabilities, which are covered in the Data Visualization with Pandas item.  You will also practice the subplot syntax.  This syntax will enable you to make figures with multiple plots, allowing one more level of visualization customization.
 
