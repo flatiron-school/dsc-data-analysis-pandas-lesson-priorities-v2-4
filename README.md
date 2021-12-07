@@ -29,6 +29,6 @@ Lastly, practice your Pandas data manipulation skills with a deep dive into Macb
 
 ## Note on Lesson Priorities
 
-The lessons in the topics are meant to be completed sequentially.  Lesson priorities are meant to help you zero in on the most important content if you are short on time.  That does not mean the items marked as 2nd Priority are not important in your development as a data scientist. Rather, it means that they do not introduce or practice concepts that are the most essential to successfully mastering the concepts required to progress through the Flatiron Data Science program. 
+The items in the topics are meant to be completed sequentially.  Lesson priorities are meant to help you zero in on the most important content if you are short on time.  That does not mean the items marked as 2nd Priority are not important to your development as a data scientist. Rather, it means that they do not **introduce** concepts that are essential to progressing through the Flatiron Data Science program. 
 
-You will notice that many labs are marked are 2nd Priority.  Labs reinforce concepts which are introduced by prior items.  If you are short on time, your first priority should be to digest the concept where it has been introduced in the topic, then reinforce the concept in the lab.  
+You will notice that many labs are marked are 2nd Priority.  Labs reinforce concepts which are introduced by prior items.  If you are short on time, your first priority should be to digest the concept where it has been introduced, then reinforce the concept in the lab when you have time.  
