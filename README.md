@@ -23,7 +23,7 @@ There are quite a few lessons in the Appendix will help develop your Pandas skil
 
 While matplotlib will be the primary tool for plotting, Pandas objects also have plotting capabilities, which are covered in the Data Visualization with Pandas item.  You will also practice the subplot syntax.  This syntax will enable you to make figures with multiple plots, allowing one more level of visualization customization.
 
-Lastly, practice your Pandas data manipulation skills with a deep dive into Macbeth.  The `Analyzing Macbeth with Pandas` exercise will push your limits.
+Lastly, practice your Pandas data manipulation skills with a deep dive into Macbeth.  The **Analyzing Macbeth with Pandas** exercise will push your limits.
 
 
 
